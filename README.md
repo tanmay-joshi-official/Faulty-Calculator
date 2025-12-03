@@ -49,7 +49,6 @@ This simulates a **faulty system on purpose**.
 * JavaScript Functions
 * `Math.random()`
 * Conditional Statements (`if / else if / else`)
-* DOM Manipulation
 
 ---
 
