@@ -37,7 +37,6 @@ This simulates a **faulty system on purpose**.
 
 ## 🚀 Features
 
-* Simple and clean UI
 * Random incorrect answers (10%)
 * Multiple operations supported
 * Beginner-friendly and readable code
