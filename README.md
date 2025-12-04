@@ -13,7 +13,6 @@ This project was created while learning:
 * `if`, `else if`, `else` conditions
 * Random number generation
 
----
 
 ## ⚙️ How It Works
 
@@ -25,6 +24,13 @@ This project was created while learning:
 
 This simulates a **faulty system on purpose**.
 
+---
+
+## 📸 Preview
+
+[Preview](https://github.com/user-attachments/assets/19092e1a-9ba1-4bd6-87c4-e36bc5e05ac1)
+
+---
 ---
 
 ## 🛠️ Tech Stack
@@ -57,12 +63,6 @@ This simulates a **faulty system on purpose**.
 * Writing cleaner functions in JavaScript
 * Applying conditions based on probability
 * Debugging and improving logic flow
-
----
-
-## 📸 Preview
-
-[Preview](https://github.com/user-attachments/assets/19092e1a-9ba1-4bd6-87c4-e36bc5e05ac1)
 
 ---
 
