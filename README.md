@@ -62,6 +62,8 @@ This simulates a **faulty system on purpose**.
 
 ## 📸 Preview
 
+[Click here to view a demo video of the calculator](https://github.com/user-attachments/assets/19092e1a-9ba1-4bd6-87c4-e36bc5e05ac1)
+
 ---
 
 ## ⭐ Conclusion
